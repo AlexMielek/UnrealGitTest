@@ -1,0 +1,3 @@
+C:\Users\Savagejd81\Documents\UnrealGitTest\GitTEST\Source\GitTEST\GitTEST.Build.cs
+C:\Users\Savagejd81\Documents\UnrealGitTest\GitTEST\Source\GitTEST.Target.cs
+C:\Users\Savagejd81\Documents\UnrealGitTest\GitTEST\Source\GitTESTEditor.Target.cs

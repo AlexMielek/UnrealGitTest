@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\GitTEST.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{C048B4A9-70E5-48CF-9E3A-8E8928B0A4D7}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\GitTEST.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\GitTESTEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{982B519E-BB74-49EE-8B32-36CF53AC37D2}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\GitTEST">
+			<UniqueIdentifier>{4BCB6F40-9170-4A5C-9221-3733AA116DEA}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\GitTEST\GitTEST.Build.cs">
+			<Filter>Source\GitTEST</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\GitTEST\GitTEST.cpp">
+			<Filter>Source\GitTEST</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GitTEST\GitTEST.h">
+			<Filter>Source\GitTEST</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\GitTEST\GitTESTCharacter.cpp">
+			<Filter>Source\GitTEST</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GitTEST\GitTESTCharacter.h">
+			<Filter>Source\GitTEST</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\GitTEST\GitTESTGameMode.cpp">
+			<Filter>Source\GitTEST</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GitTEST\GitTESTGameMode.h">
+			<Filter>Source\GitTEST</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
